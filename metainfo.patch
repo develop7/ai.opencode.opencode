@@ -1,0 +1,19 @@
+--- a/usr/share/metainfo/ai.opencode.desktop.metainfo.xml	2026-07-28 07:44:23.000000000 +0200
++++ b/usr/share/metainfo/ai.opencode.desktop.metainfo.xml	2026-07-29 16:49:37.028095983 +0200
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <component type="desktop-application">
+-  <id>ai.opencode.desktop</id>
++  <id>ai.opencode.opencode</id>
+ 
+   <metadata_license>CC0-1.0</metadata_license>
+   <project_license>MIT</project_license>
+@@ -18,7 +18,7 @@
+     </p>
+   </description>
+ 
+-  <launchable type="desktop-id">ai.opencode.desktop.desktop</launchable>
++  <launchable type="desktop-id">ai.opencode.opencode.desktop</launchable>
+ 
+   <content_rating type="oars-1.1" />
+ 
